@@ -1,0 +1,10 @@
+{
+  "name": "Kalkulator Money Management XAUUSD",
+  "short_name": "MM Calc",
+  "description": "Kalkulator lot, risiko, dan take profit untuk trading XAUUSD",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f1511",
+  "theme_color": "#161d18",
+  "orientation": "portrait"
+}
